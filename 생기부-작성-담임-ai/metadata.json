@@ -1,0 +1,5 @@
+{
+  "name": "생기부 작성 담임 AI",
+  "description": "A specialized AI assistant for high school teachers to automatically generate Korean Student Record (Saeng-gi-bu) comments based on student activities.",
+  "requestFramePermissions": []
+}
